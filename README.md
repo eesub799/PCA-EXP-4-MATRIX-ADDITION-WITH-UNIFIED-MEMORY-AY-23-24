@@ -8,7 +8,7 @@
 To perform Matrix addition with unified memory and check its performance with nvprof.
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
-Google Colab with NVCC Compiler
+Google Colab with NVCC Compiler 
 ## PROCEDURE:
 1.	Setup Device and Properties
 Initialize the CUDA device and get device properties.
